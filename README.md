@@ -11,8 +11,11 @@ Setup:
 
 Controls
 hold 'a' and click to create points
+
 hold 'm' and click to select points
+
   you can select multiple
+  
 use the buttons to control attributes of elements you create
 
 
